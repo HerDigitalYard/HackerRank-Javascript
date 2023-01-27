@@ -1,6 +1,13 @@
-<p align="center"><a href="https://www.hackerrank.com/deveshashah"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
+<p align="center"><a href="https://www.hackerrank.com/deveshashah"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="50%" ></a></p>
 
-# 10 Days of Javascript
+<p align="center"> We hope you find this repository useful! If so, please consider giving it a ⭐ to show your support  ❤️</p>
+
+<p align="center">If you would like to contribute or have a solution in a different language, please submit a pull request.</p>
+
+<hr/>
+
+## 10 Days of Javascript
+<br>
 
 |       Subdomain       |                 Challenge                 |                                             Problem                                              | Difficulty | Score |                                             Solution                                              |
 | :-------------------: | :---------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------: | :---: | :-----------------------------------------------------------------------------------------------: |
@@ -29,3 +36,10 @@
 |     Day8      |              Create a Button            |             [Problem](https://www.hackerrank.com/challenges/js10-create-a-button)             |    Easy    |  20   |                        |
 |     Day8      |             Buttons Container            |             [Problem](https://www.hackerrank.com/challenges/js10-buttons-container)             |    Easy    |  20   |                      |
 |     Day9      |             Binary Calculator           |             [Problem](https://www.hackerrank.com/challenges/js10-binary-calculator)             |    Medium    |  30   |                       |
+
+<br>
+<p align="center">
+    <a href="https://www.hackerrank.com/deveshashah?hr_r=1">
+        <img alt="HackerRank Logo" src="https://hrcdn.net/fcore/assets/brand/h_mark_sm-966d2b45e3.svg">
+    </a>
+</p>
